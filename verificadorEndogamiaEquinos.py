@@ -1,9 +1,6 @@
 from collections import defaultdict
 import itertools
 
-#Programa Escrito por 
-#Afranio Goncalves Gazolla
-
 #Programado por Afranio Gazolla - Professor e Zootecnista
 print("****************************************")
 print("* Verificador de Endogamia em Equinos *")
