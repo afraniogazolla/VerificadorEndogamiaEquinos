@@ -1,4 +1,5 @@
-![alt text](https://github.com/afraniogazolla/validadeGestacaoDeEquinos/blob/main/image.jpg)
+![alt text](https://github.com/afraniogazolla/VerificadorEndogamiaEquinos/blob/main/image.jpg)
+
 # Verificador de Endogamia em Equinos
 
 Este é um software Verificador de Endogamia em Equinos. Esta ferramente eh de alta utilidade para os criadores, que dispoe da arvore genealogica do animal, e precisam calcular a influencia genetica dos equinos no produto final. Tornando o trabalho mais eficiente, quando precisamos calcular para centenas de animais sua influencia consaguinea.
